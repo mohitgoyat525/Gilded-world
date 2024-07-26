@@ -228,7 +228,7 @@
 
 }
 
-.blur-box-time-out {
+.blur-card-time-out {
     height: 70px;
     width: 100%;
 }
@@ -282,7 +282,7 @@
     background-color: var(--gray);
 }
 
-.blur-box-time {
+.blur-card-time {
     font-family: "Josefin Sans", sans-serif;
     font-size: var(--fs-2xl);
     font-weight: 600;
@@ -290,7 +290,7 @@
     color: var(--light);
 }
 
-.blur-box-text {
+.blur-card-text {
     font-family: "Josefin Sans", sans-serif;
     font-size: var(--fs-sm);
     font-weight: 400;
