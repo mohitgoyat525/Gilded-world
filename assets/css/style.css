@@ -31,6 +31,12 @@
 .justify-content-between {
   justify-content: space-between;
 }
+.mb-0{
+  margin-bottom: 0;
+}
+.flex-coloum{
+  flex-direction: column;
+}
 .col-lg-6{
   width:50%;
   padding-left: 12px;
@@ -154,6 +160,17 @@
 color: #ffffff;
 line-height: 30px;
 text-align: left;
+
+}
+.card{
+  width: 397px;
+height: 69px;
+top: 159px;
+left: 1098px;
+gap: 0px;
+border-radius: 8px;
+border: 1px;
+opacity: 0px;
 
 }
 /* -----------------------------------responsive-------------------------------- */
